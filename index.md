@@ -12,8 +12,7 @@
 
 *School of Economics and Management (Minor Degree)*
 
-
-**Overall GPA: 3.84/4.0  Rank: 9/160**
+**Overall GPA: 3.84/4.0  Rank: 9/160**
 
 **Core Courses and Grades:**
 
@@ -111,15 +110,43 @@ Advisor: Prof Martial Hebert
 
 ## SELECTED COURSE PROJECTS
 
+**AI for Gravity Connect Four** (05/2018)
 
+*Introduction to Artificial Intelligence, Supervised by Prof. Shaoping Ma*
+
+- Created an intelligent battle program for Gravity Connect Four by employing Monte Carlo tree search
+
+**Futures trading prediction model** (05/2018)
+
+*Pattern recognition, Supervised by Associate Prof. Linmi Tao*
+
+- Performed data analyze on the given dataset and find some simple change rules of futures trading.
+- Constructed a LSTM model to predict the ups and downs of futures price
+- Implemented other baselines(Linear regression, etc.) to compare with the proposed model.
+
+**Reproduction of Learning to Generate Parameters from Natural Languages for Graph Neural Networks( ICLR 2019 Reproducibility Challenge)** (11/2018)
+
+*Artificial neural networks, Supervised by Associate Prof. Minlie Huang*
+
+- Implemented several baselines include Context-Aware RE, Multi-Window CNN and PCNN.
+- Reimplemented the GP-GNN network mentioned in the paper and verify the correctness of the model.
 
 ## EXTRACURRICULAR ACTIVITIES
 
-
+- Orienteering Team Captain of Computer Science and Technology (09/2016 – 07/2017)
+- Psychology club of Tsinghua University (02/2017– 09/2017)
+- 16th Si Yuan Project of Tsinghua University (04/2017 – Present)
+- Volunteer Teacher in the HuaQing Middle School, Lintong, China (07/2017 – 08/2017)
+- Class 62 of CST, commissary in charge of studies. (09/2018 – 09/2019)
 
 ## SKILLS & OTHERS
 
-
+- Language: Mandarin, English.
+- TOEFL iBT 105 (Reading 30, Listening 30, Speaking22, Writing 23)
+- GRE: Verbal 158(80%), Quantitative 170(96%), Analytical Writing 3.5(39%).
+- Programming Languages: C/C++, MATLAB, Python, VHDL, Java, JavaScript, Latex, R, Qt, Assembly
+- Research Skills: vim, git, bash, cmake, gcc, gdb, docker, tmux, tensorflow, pytorch, openmp, opencv
+- Software: Visual Studio, Atom, CLion, PyCharm, Eclipse, Multisim
 
 ## CONTACT ME
 
