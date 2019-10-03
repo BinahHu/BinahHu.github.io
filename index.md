@@ -1,6 +1,6 @@
 # Zhiyuan Hu
 
-！[](https://github.com/BinahHu/BinahHu.github.io/raw/master/pic/pic.png)
+![](pic/pic.png)
 
 ---------------
 
