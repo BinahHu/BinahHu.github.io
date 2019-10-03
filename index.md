@@ -1,6 +1,6 @@
 # Zhiyuan Hu
 
-！[](https://github.com/BinahHu/BinahHu.github.io/raw/master/pic/pic.png)
+！[](https://github.com/BinahHu/BinahHu.github.io/tree/master/pic)
 
 ---------------
 
@@ -12,7 +12,6 @@
 
 *School of Economics and Management (Minor Degree)*
 
-
 
 **Overall GPA: 3.84/4.0  Rank: 9/160**
 
