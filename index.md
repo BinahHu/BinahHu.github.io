@@ -1,6 +1,6 @@
 # Zhiyuan Hu
 
-<img src="pic/pic.png" width = "300" height = “300" alt="my photo" align=left />
+！[](https://github.com/BinahHu/BinahHu.github.io/raw/master/pic/pic.png)
 
 ---------------
 
