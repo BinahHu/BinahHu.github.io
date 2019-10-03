@@ -1,6 +1,6 @@
 # Zhiyuan Hu
 
-<img src="./pic/pic.png" width = "300" height = “300" alt="my photo" align=left />
+<img src="pic/pic.png" width = "300" height = “300" alt="my photo" align=left />
 
 ---------------
 
@@ -46,7 +46,7 @@ Research interests：*Computer Vision, Multimedia, Human Computer Interaction.*
 
 Advisor：Associate Prof. Jia Jia
 
-#####1.Research on Aesthetic calculation (10/2017 – 06/2018)
+##### 1.Research on Aesthetic calculation (10/2017 – 06/2018)
 
 Designing an AI Painting system which can automatically generate paintings with specific emotion and art style.
 
@@ -54,7 +54,7 @@ Designing an AI Painting system which can automatically generate paintings with 
 - Analyze the function of each module and verify the effectiveness of our model.
 - Co-authored a paper published in **MM’18.**
 
-#####2.Research on Social Network Analysis (07/2018 – 01/2019)
+##### 2.Research on Social Network Analysis (07/2018 – 01/2019)
 
 Analyzing unfollow behavior of users on Weibo network and construct a model to predict unfollow.
 
@@ -64,7 +64,7 @@ Analyzing unfollow behavior of users on Weibo network and construct a model to p
 
  
 
-####National University of Singapore NexT++ Research Group (01/2019 – 02/2019)
+#### National University of Singapore NexT++ Research Group (01/2019 – 02/2019)
 
 Advisor: Prof Chua Tat Seng
 
@@ -76,7 +76,7 @@ Advisor: Prof Chua Tat Seng
 
  
 
-####Tencent WeChat department (03/2019 – 05/2019)
+#### Tencent WeChat department (03/2019 – 05/2019)
 
 *Intern staff in Tencent WeChat department*
 
@@ -89,7 +89,7 @@ Advisor: Prof Chua Tat Seng
 
  
 
-####Carnegie Mellon University Robotics Institute (06/2019 – 09/2019)
+#### Carnegie Mellon University Robotics Institute (06/2019 – 09/2019)
 
 Advisor: Prof Martial Hebert
 
@@ -105,7 +105,10 @@ Advisor: Prof Martial Hebert
 
 ## AWARDS & SCHOLARSHIPS
 
-
+1. Comprehensive Excellent Scholarship of Tsinghua University (Top 5% of the Department) (10/2017)
+2. First prize in National College Students Physics Competition (Top 10% of the School) (12/2017)
+3. 3rd Prize in The 38th“Challenge Cup” Competition of Tsinghua University (04/2018)
+4. Academic Excellence Award (Top 10% of the Department) (10/2018)
 
 ## SELECTED COURSE PROJECTS
 
@@ -119,7 +122,7 @@ Advisor: Prof Martial Hebert
 
 
 
-## CONTATC INFORMATION
+## CONTACT ME
 
 Email: zy-hu16@mails.tsinghua.edu.cn
 
