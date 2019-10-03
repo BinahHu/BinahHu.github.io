@@ -1,6 +1,6 @@
-# Zhiyuan Hutest
+# Zhiyuan Hu
 
-！[](https://github.com/BinahHu/BinahHu.github.io/tree/master/pic)
+！[](https://github.com/BinahHu/BinahHu.github.io/raw/master/pic/pic.png)
 
 ---------------
 
