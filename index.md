@@ -40,11 +40,11 @@
 
 Research interests：*Computer Vision, Multimedia, Human Computer Interaction.* 
 
-#### Tsinghua University Human-Computer Speech Interaction Research Group (10/2017 – Present)
+### Tsinghua University Human-Computer Speech Interaction Research Group (10/2017 – Present)
 
 Advisor：Associate Prof. Jia Jia
 
-##### 1.Research on Aesthetic calculation (10/2017 – 06/2018)
+#### 1.Research on Aesthetic calculation (10/2017 – 06/2018)
 
 Designing an AI Painting system which can automatically generate paintings with specific emotion and art style.
 
@@ -52,7 +52,7 @@ Designing an AI Painting system which can automatically generate paintings with 
 - Analyze the function of each module and verify the effectiveness of our model.
 - Co-authored a paper published in **MM’18.**
 
-##### 2.Research on Social Network Analysis (07/2018 – 01/2019)
+#### 2.Research on Social Network Analysis (07/2018 – 01/2019)
 
 Analyzing unfollow behavior of users on Weibo network and construct a model to predict unfollow.
 
@@ -62,11 +62,11 @@ Analyzing unfollow behavior of users on Weibo network and construct a model to p
 
  
 
-#### National University of Singapore NexT++ Research Group (01/2019 – 02/2019)
+### National University of Singapore NexT++ Research Group (01/2019 – 02/2019)
 
 Advisor: Prof Chua Tat Seng
 
-##### 2.Research on Social Network Analysis
+#### 2.Research on Social Network Analysis
 
 - Further analysis on the mechanism of unfollow. Finding another fatal factor(unfollow history) related to unfollow.
 - Improved the former model. The final model outperformed baselines by 24.5% on average in terms of accuracy.
@@ -74,11 +74,11 @@ Advisor: Prof Chua Tat Seng
 
  
 
-#### Tencent WeChat department (03/2019 – 05/2019)
+### Tencent WeChat department (03/2019 – 05/2019)
 
 *Intern staff in Tencent WeChat department*
 
-##### 3.Research on high-quality comment generation
+#### 3.Research on high-quality comment generation
 
 - Generating comments for WeChat moments with high-level semantic information.
 
@@ -87,13 +87,13 @@ Advisor: Prof Chua Tat Seng
 
  
 
-#### Carnegie Mellon University Robotics Institute (06/2019 – 09/2019)
+### Carnegie Mellon University Robotics Institute (06/2019 – 09/2019)
 
 Advisor: Prof Martial Hebert
 
 *Summer intern project*
 
-##### 4.Research on Few-Shot Learning in Image Classification
+#### 4.Research on Few-Shot Learning in Image Classification
 
 - Analyzing on how to enhance generalizability of visual features with heterogeneous supervision.
 - Constructed an benchmark to evaluate the performance and contribution of different supervisions.
