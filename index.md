@@ -34,7 +34,15 @@
 
 ## PUBLICATIONS
 
-[1] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma,**Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)([PDF](papers/mm18.pdf))
+[1] Ziqi Pang*, **Zhiyuan Hu\***, Pavel Tokmakov, Yuxiong Wang, Martial Hebert. Learning Generalizable Representations via Diverse Supervision. (preprint)[[PDF](papers/cvpr20.pdf)]
+
+[2] **Zhiyuan Hu\***, HaoZhe Wu*, Xiangnan He, Yaohua Bu, Jia Jia, Tat-seng Chua. Mining Unfollow Behavior in Large-Scale Online Social Networks via Spatial-Temporal Interaction. In 34th AAAI Conference on Artificial Intelligence (AAAI 2020, preprint)[[PDF](papers/aaai20.pdf)]
+
+[3] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma, **Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)[[PDF](papers/mm18.pdf)]
+
+ 
+
+*Equal contribution
 
 ## RESEARCH & INTERN EXPERIENCES
 
@@ -70,7 +78,7 @@ Advisor: Prof Chua Tat Seng
 
 - Further analysis on the mechanism of unfollow. Finding another fatal factor(unfollow history) related to unfollow.
 - Improved the former model. The final model outperformed baselines by 24.5% on average in terms of accuracy.
-- Submitted a paper to **AAAI 2020**(under review) as co-first author.
+- Submitted a paper to **AAAI 2020** as co-first author.
 
  
 
@@ -99,7 +107,7 @@ Advisor: Prof Martial Hebert
 - Constructed an benchmark to evaluate the performance and contribution of different supervisions.
 - Analyzed the interaction of different supervisions and proposed an unified model to combine them all.
 - Improved the performance of Few-Shot learning on Image Classification by 6% in terms of top5 accuracy.
-- Planed to submit a paper to**CVPR 2020**as co-first author.
+- Submited a paper to **CVPR 2020** (under review) as co-first author.
 
 ## AWARDS & SCHOLARSHIPS
 
@@ -144,8 +152,19 @@ Advisor: Prof Martial Hebert
 - Language: Mandarin, English.
 - TOEFL iBT 105 (Reading 30, Listening 30, Speaking22, Writing 23)
 - GRE: Verbal 158(80%), Quantitative 170(96%), Analytical Writing 3.5(39%).
-- Programming Languages: C/C++, MATLAB, Python, VHDL, Java, JavaScript, Latex, R, Qt, Assembly
-- Research Skills: vim, git, bash, cmake, gcc, gdb, docker, tmux, tensorflow, pytorch, openmp, opencv
+- Developing and training complex neural networks
+  - Proficient in using pytorch, tensorflow to construct neural networks.
+  -  Experienced in analyzing and adjusting the training procedure.
+- Statistical analysis on large scale dataset
+  -  Proficient in statistical analysis methods and their applications on large scale datasets.
+  -  Proficient in drawing figures and charts by Python, MATLAB, etc.
+- Environment configuration
+  - Experienced in configuring experiment environments and solving environment problems.
+- Software engineering and project management
+  -  Good habits in coding and organizing codes.
+  -  Experienced in the usage of GitHub and software engineering principles.
+-  Programming Languages: C/C++, MATLAB, Python, VHDL, Java, JavaScript, Latex, R, Qt, Assembly
+- Research Skills: vim, git, cmake, gcc, gdb, docker, tensorflow, pytorch, keras, openmp, opencv
 - Software: Visual Studio, Atom, CLion, PyCharm, Eclipse, Multisim
 
 ## CONTACT ME
