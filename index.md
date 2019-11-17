@@ -34,7 +34,7 @@
 
 ## PUBLICATIONS
 
-[1] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma,**Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)([PDF](http://hcsi.cs.jykf64718281.com/Paper/Paper18/MM-LEIKEHUA.pdf))
+[1] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma,**Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)([PDF](papers/mm18.pdf))
 
 ## RESEARCH & INTERN EXPERIENCES
 
