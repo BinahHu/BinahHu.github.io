@@ -34,11 +34,11 @@
 
 ## PUBLICATIONS
 
-[1] Ziqi Pang*, **Zhiyuan Hu\***, Pavel Tokmakov, Yuxiong Wang, Martial Hebert. Learning Generalizable Representations via Diverse Supervision. (preprint)[[PDF](papers/cvpr20.pdf)]
+[1] Ziqi Pang*, **Zhiyuan Hu\***, Pavel Tokmakov, Yuxiong Wang, Martial Hebert. Learning Generalizable Representations via Diverse Supervision.
 
-[2] **Zhiyuan Hu\***, HaoZhe Wu*, Xiangnan He, Yaohua Bu, Jia Jia, Tat-seng Chua. Mining Unfollow Behavior in Large-Scale Online Social Networks via Spatial-Temporal Interaction. In 34th AAAI Conference on Artificial Intelligence (AAAI 2020, preprint)[[PDF](papers/aaai20.pdf)]
+[2] **Zhiyuan Hu\***, HaoZhe Wu*, Xiangnan He, Yaohua Bu, Jia Jia, Tat-seng Chua. Mining Unfollow Behavior in Large-Scale Online Social Networks via Spatial-Temporal Interaction. In 34th AAAI Conference on Artificial Intelligence (AAAI 2020)
 
-[3] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma, **Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)[[PDF](papers/mm18.pdf)]
+[3] Cunjun Zhang, Kehua Lei, Jia Jia, Yihui Ma, **Zhiyuan Hu**. AI Painting: An Aesthetic Painting Generation System. In Proceedings of the 26th ACM International Conference on Multimedia (MM'18)
 
  
 
